@@ -1,2 +1,2 @@
 msg: "hello, world!"
-password: "{cipher} password"
+password: password
